@@ -1,0 +1,11 @@
+{
+  "name": "shopping-components",
+  "description": "shopping components set",
+  "version": "1.0.0",
+  "author": "S. Francis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EllipticalElements/shopping-components.git"
+  }
+}

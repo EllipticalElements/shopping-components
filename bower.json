@@ -1,0 +1,51 @@
+{
+  "name": "shopping-components",
+  "version": "1.0.0",
+  "authors": [
+    "S. Francis"
+  ],
+  "description": "shopping components set",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "shop"
+  ],
+  "main": "shopping-components.html",
+  "license": "MIT",
+  "homepage": "https://github.com/EllipticalElements/shopping-components/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/",
+    ".gitignore",
+    ".npmignore",
+    "gulpfile.js",
+    "lib",
+    "docs",
+    "index.js",
+    "umd.js",
+    "package.json",
+    "demo",
+    "build.json",
+    "bundle.json",
+    ".nvmrc",
+    ".eslintrc",
+    "bin",
+    "CHANGELOG.md",
+    "demos",
+    "stylesheets",
+    "_index.scss",
+    "bk"
+  ],
+  "dependencies": {
+    "shopping-checkout": "~1.0.0",
+    "shopping-bag": "~1.0.0",
+    "shopping-item": "~1.0.0",
+    "shopping-gallery": "~1.0.0",
+    "image-zoom": "~1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
