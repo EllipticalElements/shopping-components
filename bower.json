@@ -1,6 +1,6 @@
 {
   "name": "shopping-components",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "authors": [
     "S. Francis"
   ],
@@ -42,7 +42,7 @@
     "shopping-bag": "~1.2.0",
     "shopping-item": "~1.2.0",
     "shopping-gallery": "~1.2.0",
-    "image-zoom": "~1.0.0"
+    "image-zoom": "~1.0.2"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
